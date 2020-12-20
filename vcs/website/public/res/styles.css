@@ -1,0 +1,31 @@
+html {
+    background: #ccc;
+}
+
+body {
+    background: #fff;
+    color: #000;
+    font: 14px sans-serif;
+    line-height: 150%;
+    border: 1px solid #aaa;
+    padding: 2em;
+    width: 450px;
+    margin: 2em auto;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+code {
+    color: #069;
+    white-space: nowrap;
+}
+
+.footer {
+    margin-top: 4em;
+    border-top: 1px solid #aaa;
+    padding-top: 2em;
+}
+
+.footer a {
+    margin-right: 1em;
+}
