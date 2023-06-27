@@ -1,3 +1,15 @@
+&nbsp;
+
+&nbsp;
+
+### This repository is deprecated. Smartcat now has a dedicated workflow, APIs and CLI to work with software localization projects. Check out our [Software Localization Projects in Smartcat](https://developers.smartcat.com/software-localization/) guide.
+
+&nbsp;
+
+&nbsp;
+
+---
+
 # Sample continuous localization project for web sites
 
 This example project has everything you need to localize an HTML- or PHP-based web site pages on [Smartcat](https://smartcat.ai/) platform, using a fully automated *continuous localization* approach.
