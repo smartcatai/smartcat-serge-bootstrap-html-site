@@ -90,8 +90,16 @@ jobs
 
                 data
                 {
-                    replace                     `<\/head>`
+                    if
+                    {
+                        lang_matches            preview
+
+                        then
+                        {
+                            replace             `<\/head>`
                                                 `<script src="https:\/\/preview.smartcat.ai\/smartcat\/static\/in-context-preview.js"><\/script>\n<\/head>`
+                        }
+                    }
                 }
             }
         }
